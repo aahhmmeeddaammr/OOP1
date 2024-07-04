@@ -1,0 +1,12 @@
+C:\Users\Ahmed\Desktop\Library\Assigment6C#\Point1\bin\Debug\net8.0\Point1.deps.json
+C:\Users\Ahmed\Desktop\Library\Assigment6C#\Point1\bin\Debug\net8.0\Point1.dll
+C:\Users\Ahmed\Desktop\Library\Assigment6C#\Point1\bin\Debug\net8.0\Point1.pdb
+C:\Users\Ahmed\Desktop\Library\Assigment6C#\Point1\obj\Debug\net8.0\Point1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\Library\Assigment6C#\Point1\obj\Debug\net8.0\Point1.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\Library\Assigment6C#\Point1\obj\Debug\net8.0\Point1.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\Library\Assigment6C#\Point1\obj\Debug\net8.0\Point1.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Library\Assigment6C#\Point1\obj\Debug\net8.0\Point1.sourcelink.json
+C:\Users\Ahmed\Desktop\Library\Assigment6C#\Point1\obj\Debug\net8.0\Point1.dll
+C:\Users\Ahmed\Desktop\Library\Assigment6C#\Point1\obj\Debug\net8.0\refint\Point1.dll
+C:\Users\Ahmed\Desktop\Library\Assigment6C#\Point1\obj\Debug\net8.0\Point1.pdb
+C:\Users\Ahmed\Desktop\Library\Assigment6C#\Point1\obj\Debug\net8.0\ref\Point1.dll

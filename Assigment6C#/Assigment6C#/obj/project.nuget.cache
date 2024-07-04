@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kKr0HOMM9eKqLQBiRPXfqPojdfhaZ9JFdunDkErVbZsWxk4D2Vq61kx2gPVljeCEuaUiW+8lvEGRuK+vgGNjiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmed\\Desktop\\Library\\Assigment6C#\\Assigment6C#\\Assigment1OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

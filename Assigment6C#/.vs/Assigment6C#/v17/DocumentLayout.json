@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\Desktop\\Library\\Assigment6C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE6AA77-3862-41A8-BE10-40964DDE6FE5}|Assigment6C#\\Assigment1OOP.csproj|c:\\users\\ahmed\\desktop\\library\\assigment6c#\\assigment6c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE6AA77-3862-41A8-BE10-40964DDE6FE5}|Assigment6C#\\Assigment1OOP.csproj|solutionrelative:assigment6c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE985FE-C2BE-4977-AC17-E709EB0E748B}|Point1\\Point1.csproj|c:\\users\\ahmed\\desktop\\library\\assigment6c#\\point1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE985FE-C2BE-4977-AC17-E709EB0E748B}|Point1\\Point1.csproj|solutionrelative:point1\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA3F670-74C1-4F1C-B3C7-3E1DDC7656C0}|Person\\Person.csproj|C:\\Users\\Ahmed\\Desktop\\Library\\Assigment6C#\\person\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA3F670-74C1-4F1C-B3C7-3E1DDC7656C0}|Person\\Person.csproj|solutionrelative:person\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assigment6C#\\Point1\\Class2.cs",
+              "RelativeDocumentMoniker": "Point1\\Class2.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assigment6C#\\Point1\\Class2.cs",
+              "RelativeToolTip": "Point1\\Class2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:58:43.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assigment6C#\\Person\\Class1.cs",
+              "RelativeDocumentMoniker": "Person\\Class1.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assigment6C#\\Person\\Class1.cs",
+              "RelativeToolTip": "Person\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:16:36.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assigment6C#\\Assigment6C#\\Program.cs",
+              "RelativeDocumentMoniker": "Assigment6C#\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assigment6C#\\Assigment6C#\\Program.cs",
+              "RelativeToolTip": "Assigment6C#\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:15:18.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
